@@ -1,0 +1,23 @@
+body {
+    background-color: #DBE2EF;
+}
+
+hr {
+    /* background-color: orange;
+    border-style: none;
+    height: 2px;
+    width: 75%; */
+
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1, h3 {
+    color: #66bfb6;
+}
+
+.customTableBorderSpacing1em {
+    border-spacing: 1em 0;
+}
